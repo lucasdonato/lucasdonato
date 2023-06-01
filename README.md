@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Lucas Donato 👋
 
-- 🔭 Atualmente estou trabalhando com node/javascript desenvolvendo testes de api,e2e
-- 🌱 Atualmente estou apredendeno typescript
-
+- Atualmente estou trabalhando com node/javascript desenvolvendo testes de api e E2E no front-end
+- Atualmente estou aprendendo typescript
 
 <div>
 <a href="https://github.com/lucasdonato">
