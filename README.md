@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Lucas Donato 👋
 
-- Atualmente estou trabalhando com node/javascript desenvolvendo testes de api e E2E no front-end
-- Atualmente estou aprendendo typescript
-
 <div>
 <a href="https://github.com/lucasdonato">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonato&layout=compact&langs_count=7&theme=dracula"/>
